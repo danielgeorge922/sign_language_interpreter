@@ -54,3 +54,6 @@ The Sign Language Translation Tool is a web application that translates sign lan
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+![image](https://github.com/user-attachments/assets/2248e915-5124-45c2-979f-8367c75a5c7f)
