@@ -70,7 +70,7 @@ bash```
 export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/google-cloud-api-key.json"
 ```
 
-Run the Flask server:
+5. **Run the Flask server:**
 
 ```bash
 flask run --host=0.0.0.0 --port=5000
